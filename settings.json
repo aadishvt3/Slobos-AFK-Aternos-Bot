@@ -6,8 +6,8 @@
     "type": "offline"
   },
   "server": {
-    "ip": "slobtest1.aternos.me",
-    "port": 27586,
+    "ip": "TheDebugGaming.aternos.me:63998",
+    "port": 63998,
     "version": "",
     "try-creative": false
   },
